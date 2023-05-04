@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkred;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.here{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: darkred;
+}
+
+form{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    font-weight: bolder;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
+
+.button{
+    align-items: center;
+    background-color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: antiquewhite;
+    border-radius: 4px;
+    font-size: 13px;
+    padding: 4px 4px;
+    margin: 16px 40px;
+
+}
+
